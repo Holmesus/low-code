@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.holmesus.lowcode.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.holmesus.lowcode.MyBundle
 
 class MyApplicationService {
 
